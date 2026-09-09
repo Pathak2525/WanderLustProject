@@ -2,6 +2,14 @@
 
 Wanderlust is a comprehensive, full-stack web application designed for travel enthusiasts. It provides a dynamic platform for users to explore, list, and review travel properties and destinations around the globe. 
 
+
+## 🌐 Live Demo
+ https://wanderlustproject-1-nlk7.onrender.com
+
+## server start 
+node app.js  http://localhost:8080/listings
+
+
 ## 🚀 Features
 
 * **Dynamic Listings:** Users can view, add, edit, and delete travel property listings.
@@ -19,5 +27,14 @@ Wanderlust is a comprehensive, full-stack web application designed for travel en
 * **Third-party APIs & Services:** * **Mapbox API** (for Geocoding and Maps)
 * **Cloudinary** (for Cloud Image Storage)
 
+# 🛠️ Technologies Used
 
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- EJS
+- Cloudinary
+- Passport.js
+- Bootstrap
 
